@@ -11,7 +11,7 @@ public class mangoo {
 	        ArrayList<Integer> arrli = new ArrayList<Integer>();
 	  
 	        
-	        for (int i = 1; i <= 5; i++)
+	        for (int i = 1; i <= 8; i++)
 	            arrli.add(i);
 	  
 	      

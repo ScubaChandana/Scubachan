@@ -7,7 +7,7 @@ interface Readable{
 		{  
 		public void Read()
 		{
-			System.out.println("Reading Book1");}  
+			System.out.println("Writting Book1");}  
 		}  
 		class  Book2 implements Readable
 		{  
